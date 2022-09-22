@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**MohamedDiini/MohamedDiini**  `README.md` 
+**MohamedDiini**  `README.md` 
 
 Here are some ideas to get you started:
 
