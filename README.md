@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api?MohamedDiini=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedDiini&show_icons=true&theme=radical)
 **MohamedDiini**  `README.md` 
 
 Here are some ideas to get you started:
