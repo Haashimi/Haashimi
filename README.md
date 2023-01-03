@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on hormuud telecome.
-- 🌱 I’m currently learning Devops and react
+- 🌱 I’m currently learning Machine Learning and 
+IBM Full Stack Software Developer
 
 
