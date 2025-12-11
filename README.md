@@ -1,4 +1,4 @@
-### Hi 👋 I'm Mohamed Muhudin Abdi Haashim
+### Hi 👋 I'm Mohamed Muhudin
 Haashimi is a highly skilled software engineer in designing, developing, and implementing software solutions.
 With a strong foundation in computer science and a passionate for solving complex problems.
 - 🔭 I’m currently working on
